@@ -28,6 +28,7 @@ This repository documents my work during IMC Prosperity 4, my first quant / algo
 | Round 2 | Market access + refinement | Execution quality, bid sizing, manual investment allocation |
 | Round 3 | Options + delta-one products | Black-Scholes intuition, voucher mispricing, reserve-price manual challenge |
 | Round 4 | Counterparty IDs + exotics | Trader behavior analysis, option oscillation failure, exotic option manual challenge |
+| Round 5 | - | Didn't compete |
 
 ## Disclaimer
 
