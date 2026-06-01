@@ -32,4 +32,4 @@ This repository documents my work during IMC Prosperity 4, my first quant / algo
 
 ## Disclaimer
 
-This was my first quant competition and I played solo. The repo is intentionally written as a learning journal and postmortem rather than a top-placement solution guide.
+This was my first quant competition and I played solo. The repo is intentionally written as a learning journal and postmortem rather than a top-placement solution guide. The last round was voided due to Time issues.
