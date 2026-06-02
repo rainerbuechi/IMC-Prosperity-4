@@ -12,6 +12,3 @@
 | Long Position | A long position means an investor has bought and owns shares of stock. This investor has paid for the shares in full, makes money if the shares rise in value and are then sold. |
 | Alpha | Alpha represents the active return on an investment compared to a market index or benchmark, highlighting the skill of a portfolio manager in adding value beyond standard market returns. |
 | Beta | Beta is an indicator of the price volatility of a stock or other asset in comparison with the broader market. It suggests the level of risk that an investor takes on in buying the stock. The higher the beta number, the higher the risk. |
-|  |  |
-|  |  |
-|  |  |
