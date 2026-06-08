@@ -1,4 +1,4 @@
-# IMC Trading Cheat sheet stole
+# IMC Trading Cheat sheet thY
 
 | Algorithmic Trading | Algorithmic trading automates decision-making and trade execution in financial markets using complex mathematical models |
 | --- | --- |
