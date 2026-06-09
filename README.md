@@ -1,4 +1,4 @@
-# IMC g Prosperity 4 — Solo Learning Journal & Strategy Research 
+# IMC Prosperity 4 — Solo Learning Journal & Strategy Research 
 
 This repository documents my work during IMC Prosperity 4, my first quant / algorithmic trading competition. I participated solo, so the focus of this write-up is not only final performance, but also the research process: how I analyzed market data, formed hypotheses, tested strategies, handled execution problems, and approached the manual challenges.
 
