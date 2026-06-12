@@ -4,7 +4,7 @@ This repository documents my work during IMC Prosperity 4, my first quant / algo
 
 ## Repository Structure
 
-- `docs/` — written explanations, round summaries, manual challenge analysis
+- `docsg/` — written explanations, round summaries, manual challenge analysis
 - `notebooks/` — exploratory data analysis and parameter research
 - `src/` — reusable trading and analysis utilities
 - `submissions/` — submitted trader files by round
